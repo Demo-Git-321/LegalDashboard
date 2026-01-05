@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="en_US" dataSources="ds688" resourceIdentifier="'cas-shared-default','Public','NEW SYNTHETIC DATA V3','en'" tableModifiedTimeStamp="2025-12-17T16:03:36.774Z">
+            <columns>
+                <column dataType="string" label="الإجراء القياسي" xref="الإجراء القياسي"/>
+                <column dataType="string" label="الاتجاه" xref="الاتجاه"/>
+                <column dataType="string" label="الاداره" xref="الاداره"/>
+                <column dataType="date" format="DATE11" label="الفترة" xref="الفترة"/>
+                <column dataType="string" label="القطاع" xref="القطاع"/>
+                <column dataType="string" label="المؤشر" xref="المؤشر"/>
+                <column dataType="string" label="الوحدات" xref="الوحدات"/>
+                <column dataType="string" label="نوع المؤشر" xref="نوع المؤشر"/>
+                <column dataType="double" format="COMMA15.4" label="Actual Vs Target Percent" xref="Actual Vs Target Percent"/>
+                <column dataType="double" format="F15." label="القيمة الفعلية" xref="القيمة الفعلية"/>
+                <column dataType="double" format="F15." label="القيمة المستهدفة" xref="القيمة المستهدفة"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>

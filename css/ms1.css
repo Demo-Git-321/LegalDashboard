@@ -1,0 +1,604 @@
+
+
+#ve2580 .span1 {
+  color: #FFFFFF;
+  font-size: 6pt;
+}
+#ve2485 .Pie {
+  ring-size: 0.12;
+}
+#ve2545 .span1 {
+  color: #FFFFFF;
+  font-size: 6pt;
+}
+#ve3291 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3225 .paragraph1 {
+  text-align: center;
+}
+#ve5940 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2605 .ReportElementContainer {
+  padding: 0px;
+}
+#ve10735 .paragraph1 {
+  text-align: center;
+}
+.KeyText {
+  font-family: "AvenirNext Light";
+}
+#ve2505 .span1 {
+  color: #FFFFFF;
+  font-size: 6pt;
+}
+#ve5318 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2585 .span1 {
+  font-size: 14px;
+}
+#ve3095 .styleForTitle_span3 {
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 13pt;
+}
+.GraphDataStyleDefault {
+  fill-color: #FFFFFF;
+}
+#ve2474 .GraphSkin {
+  data-skin: CRISP;
+}
+#ve2554 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2585 .span2 {
+  font-weight: bold;
+}
+#ve10730 .paragraph1 {
+  text-align: center;
+}
+#ve2617 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2463 .GraphDataStyleDefault {
+  fill-color: #C42C2C;
+}
+#ve2463 .ReportElementContainer {
+  padding: 0px;
+}
+#ve4934 .paragraph1 {
+  text-align: center;
+}
+#ve5938 .paragraph1 {
+  text-align: center;
+}
+* {
+  color: #FFFFFF;
+  font-family: "AvenirNext Light";
+}
+#ve2519 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5933 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5325 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2540 .span1 {
+  color: #FFFFFF;
+  font-size: 6pt;
+}
+.Missing {
+  color: #FFFFFF;
+  alt-color: #FFFFFF;
+  marker-color: #FFFFFF;
+  text-color: #FFFFFF;
+  fill-color: #FFFFFF;
+  line-color: #FFFFFF;
+}
+#ve3347 .ReportElementContainer {
+  padding: 0px;
+}
+#ve8743 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3160 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3333 .styleForTitle_span2 {
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 13pt;
+}
+#ve2474 .GraphDataStyle2 {
+  fill-color: #00A14B;
+}
+.TitleText {
+  font-family: "AvenirNext Light";
+  text-color: #FFFFFF;
+}
+#ve2474 .GraphDataStyle3 {
+  fill-color: #FFDE17;
+}
+#ve2474 .GraphDataStyle1 {
+  fill-color: #C42C2C;
+}
+#ve3043 .LegendFill {
+  transparency: 1;
+  fill-color: #001D38;
+}
+#ve5912 .span1 {
+  font-size: 16px;
+}
+#ve2510 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5912 .span2 {
+  font-weight: bold;
+}
+#ve4932 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5912 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5931 .span2 {
+  font-weight: bold;
+}
+#ve3709 .ReportElementContainer {
+  padding: 0px;
+}
+#ve10740 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5931 .span1 {
+  font-size: 16px;
+}
+#ve3146 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5331 .paragraph1 {
+  text-align: center;
+}
+#ve3291 .GraphSkin {
+  data-skin: CRISP;
+}
+#ve2575 .paragraph1 {
+  text-align: center;
+}
+#ve3043 .GraphSkin {
+  data-skin: CRISP;
+}
+#ve2607 .styleForTitle_paragraph2 {
+  text-align: center;
+}
+#ve2510 .paragraph1 {
+  text-align: center;
+}
+#ve2603 .styleForTitle_span1 {
+  font-size: 6pt;
+}
+#ve2970 .Container {
+  background-color: #B0B7C2;
+  transparency: 0.5;
+}
+#ve2474 .Pie {
+  ring-size: 0.12;
+}
+#ve2535 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2533 .paragraph1 {
+  text-align: center;
+}
+#ve3225 .ReportElementContainer {
+  padding: 0px;
+}
+#ve10740 .paragraph1 {
+  text-align: center;
+}
+#ve3095 .styleForTitle_paragraph4 {
+  text-align: center;
+}
+#ve4943 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2485 .GraphSkin {
+  data-skin: CRISP;
+}
+#ve3043 .GraphDataStyle4 {
+  marker-color: #E9ECEF;
+  text-color: #E9ECEF;
+  fill-color: #E9ECEF;
+  line-color: #E9ECEF;
+}
+#ve3043 .GraphDataStyle3 {
+  marker-color: #2C8AD6;
+  text-color: #2C8AD6;
+  fill-color: #2C8AD6;
+  line-color: #2C8AD6;
+}
+#ve3043 .GraphDataStyle2 {
+  marker-color: #7FF4EB;
+  text-color: #7FF4EB;
+  fill-color: #7FF4EB;
+  line-color: #7FF4EB;
+}
+#ve3043 .GraphDataStyle1 {
+  marker-color: #585CD6;
+  text-color: #585CD6;
+  fill-color: #585CD6;
+  line-color: #585CD6;
+}
+.NodeInputLabel {
+  text-color: #FFFFFF;
+}
+#ve4943 .span2 {
+  font-weight: bold;
+}
+#ve5938 .span1 {
+  font-size: 16px;
+}
+#ve2510 .span1 {
+  color: #FFFFFF;
+  font-size: 6pt;
+}
+#ve5938 .span2 {
+  font-weight: bold;
+}
+#ve2485 .GraphDataStyle3 {
+  fill-color: #FFDE17;
+}
+#ve2485 .GraphDataStyle2 {
+  fill-color: #00A14B;
+}
+#ve4943 .span1 {
+  font-size: 16px;
+}
+#ve2485 .GraphDataStyle1 {
+  fill-color: #C42C2C;
+}
+#ve5926 .ReportElementContainer {
+  padding: 0px;
+}
+#ve10740 .span1 {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+#ve2505 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5906 .ReportElementContainer {
+  padding: 0px;
+}
+#ve4365 .ReportElementContainer {
+  padding: 0px;
+}
+#ve10740 .span2 {
+  font-weight: bold;
+}
+#ve3333 .styleForTitle_paragraph3 {
+  text-align: center;
+}
+#ve4939 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5919 .ReportElementContainer {
+  padding: 0px;
+}
+#ve10730 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3043 .styleForTitle_paragraph5 {
+  text-align: center;
+}
+.KPIValueText {
+  font-family: "AvenirNext Light";
+  text-color: #FFFFFF;
+  alt-text-color: #FFFFFF;
+}
+#ve5924 .span2 {
+  font-weight: bold;
+}
+#ve5924 .span1 {
+  font-size: 16px;
+}
+.DataText {
+  font-family: "AvenirNext Light";
+  text-color: #FFFFFF;
+}
+.Other {
+  fill-color: #FFFFFF;
+}
+#ve3043 .styleForTitle_span4 {
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 16px;
+}
+#ve5931 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2540 .paragraph1 {
+  text-align: center;
+}
+#ve2568 .span2 {
+  font-weight: bold;
+}
+#ve10735 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2568 .span1 {
+  color: #FFFFFF;
+  font-size: 14px;
+}
+#ve2540 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2585 .paragraph1 {
+  text-align: center;
+}
+#ve2563 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2594 .styleForTitle_span1 {
+  font-size: 6pt;
+}
+#ve2463 .Pie {
+  ring-size: 0.12;
+}
+#ve5908 .ReportElementContainer {
+  padding: 0px;
+}
+#ve10724 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5322 .span1 {
+  font-size: 16px;
+}
+#ve2968 .Container {
+  background-color: #B0B7C2;
+  transparency: 0.5;
+}
+.FootnoteText {
+  text-color: #FFFFFF;
+}
+#ve3692 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2545 .paragraph1 {
+  text-align: center;
+}
+#ve4943 .paragraph1 {
+  text-align: center;
+}
+#ve2570 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3043 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3291 .styleForTitle_span1 {
+  font-weight: bold;
+  font-size: 10pt;
+}
+#ve2568 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2545 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2603 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2463 .GraphDataStyle2 {
+  fill-color: #00A14B;
+}
+#ve2463 .GraphDataStyle3 {
+  fill-color: #FFDE17;
+}
+#ve2463 .GraphDataStyle1 {
+  fill-color: #C42C2C;
+}
+#ve4934 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5924 .paragraph1 {
+  text-align: center;
+}
+#ve3219 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3043 .GraphDataStyleDefault {
+  marker-color: #585CD6;
+  text-color: #585CD6;
+  fill-color: #585CD6;
+  line-color: #585CD6;
+}
+#vi2621 .ReportPagePadding {
+  padding: 0px;
+}
+.ValueText {
+  font-family: "AvenirNext Light";
+  text-color: #FFFFFF;
+}
+.KPIRangeText {
+  font-family: "AvenirNext Light";
+  text-color: #FFFFFF;
+  alt-text-color: #FFFFFF;
+}
+#ve5322 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3217 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2463 .GraphSkin {
+  data-skin: CRISP;
+}
+#ve2519 .styleForTitle_span1 {
+  font-size: 6pt;
+}
+#ve2580 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2580 .paragraph1 {
+  text-align: center;
+}
+#ve2619 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3029 .ComboBox {
+  background-color: #545B66;
+}
+#ve2533 .span1 {
+  color: #FFFFFF;
+  font-size: 14px;
+}
+#ve2575 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2533 .span2 {
+  font-weight: bold;
+}
+#ve3208 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2533 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3291 .styleForTitle_paragraph1 {
+  text-align: center;
+}
+#ve2966 .Container {
+  background-color: #B0B7C2;
+  transparency: 0.5;
+}
+.GraphDataStyle1 {
+  fill-color: #FFFFFF;
+}
+#ve2585 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2575 .span1 {
+  color: #FFFFFF;
+  font-size: 6pt;
+}
+#ve10730 .span2 {
+  font-weight: bold;
+}
+#ve10730 .span1 {
+  font-size: 16px;
+}
+#ve5938 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3114 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5931 .paragraph1 {
+  text-align: center;
+}
+#ve2554 .styleForTitle_span1 {
+  font-size: 6pt;
+}
+#ve5912 .paragraph1 {
+  text-align: center;
+}
+#ve2485 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2563 .styleForTitle_span1 {
+  font-size: 6pt;
+}
+.NodeLabel {
+  text-color: #FFFFFF;
+}
+.LabelText {
+  font-family: "AvenirNext Light";
+  text-color: #FFFFFF;
+}
+#ve5331 .span1 {
+  font-size: 16px;
+}
+#ve5331 .span2 {
+  font-weight: bold;
+}
+#ve3095 .ReportElementContainer {
+  padding: 5px;
+}
+#ve2607 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3225 .span1 {
+  font-size: 16px;
+}
+#ve3225 .span2 {
+  font-weight: bold;
+}
+#ve2568 .paragraph1 {
+  text-align: center;
+}
+#ve4934 .span2 {
+  font-weight: bold;
+}
+#ve2623 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3043 .GridLines {
+  line-thickness: 1px;
+  line-color: #F6F7F8;
+}
+#ve2528 .styleForTitle_span1 {
+  font-size: 6pt;
+}
+#ve4934 .span1 {
+  font-size: 16px;
+}
+#ve2474 .GraphDataStyleDefault {
+  fill-color: #C42C2C;
+}
+#ve2505 .paragraph1 {
+  text-align: center;
+}
+#ve2594 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2485 .GraphDataStyleDefault {
+  fill-color: #C42C2C;
+}
+#ve5316 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5924 .ReportElementContainer {
+  padding: 0px;
+}
+#ve10735 .span1 {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+#ve2528 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3174 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3333 .ReportElementContainer {
+  padding: 5px;
+}
+#ve10735 .span2 {
+  font-weight: bold;
+}
+#ve5322 .paragraph1 {
+  text-align: center;
+}
+#ve5331 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2474 .ReportElementContainer {
+  padding: 0px;
+}
+
+			
